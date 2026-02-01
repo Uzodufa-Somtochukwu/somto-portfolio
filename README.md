@@ -11,28 +11,28 @@ This portfolio showcases my hands-on projects using **Python, SQL, Power BI, and
 ### 🚢 Titanic Survival Analysis
 **Problem:** Identify key factors influencing passenger survival and build a baseline predictive model.  
 **Tools:** Python, pandas, numpy, matplotlib/seaborn, scikit-learn  
-🔗 Repo: https://github.com/Uzodufa-Somtochukwu/titanic-survival-analysis
+🔗 **Repo:** https://github.com/Uzodufa-Somtochukwu/titanic-survival-analysis
 
 ---
 
 ### 🏃 Ultramarathon Data Analysis
 **Problem:** Explore endurance race performance trends and participation patterns.  
 **Tools:** Python, pandas, matplotlib, seaborn  
-🔗 Repo: https://github.com/Uzodufa-Somtochukwu/ultramarathon-data-analysis
+🔗 **Repo:** https://github.com/Uzodufa-Somtochukwu/ultramarathon-data-analysis
 
 ---
 
 ### 📊 Power BI & SQL Dashboard
 **Problem:** Design an interactive dashboard backed by SQL queries to surface key business insights.  
 **Tools:** SQL, Power BI  
-🔗 Repo: https://github.com/Uzodufa-Somtochukwu/powerbi-sql-dashboard
+🔗 **Repo:** https://github.com/Uzodufa-Somtochukwu/powerbi-sql-dashboard
 
 ---
 
 ### 📈 Excel Dashboard Project
 **Problem:** Build a structured Excel dashboard using pivot tables and charts for decision-making.  
 **Tools:** Microsoft Excel  
-🔗 Repo: https://github.com/Uzodufa-Somtochukwu/excel-dashboard-project
+🔗 **Repo:** https://github.com/Uzodufa-Somtochukwu/excel-dashboard-project
 
 ---
 
@@ -47,5 +47,5 @@ This portfolio showcases my hands-on projects using **Python, SQL, Power BI, and
 ---
 
 ## 📬 Contact
-- LinkedIn: ADD YOUR LINK HERE
-- GitHub: https://github.com/Uzodufa-Somtochukwu
+- **LinkedIn:** ADD YOUR LINK HERE  
+- **GitHub:** https://github.com/Uzodufa-Somtochukwu
